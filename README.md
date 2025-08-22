@@ -29,6 +29,4 @@ After I got Goldhook working, a few months later I decided to turn it into an ac
 ### Credits
 
 -  **Anonymous Friend:** Helped me get started making this library.
-
 -  [**Matthijs Lavrijsen:**](https://github.com/Mattiwatti) Helped with the Makefile and explained some complicated things to me.
-
